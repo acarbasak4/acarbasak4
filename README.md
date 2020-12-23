@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**acarbasak4/acarbasak4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :purple_heart: Welcome to my profile  :purple_heart:
+:star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2:
 
-Here are some ideas to get you started:
+:computer: I am a fresh engineer who tries to improve herself, follows new technologies and <br>
+has a sense of responsibility. I am trying to make responsive web applications with <br>
+**HTML5**, **CSS** and **JavaScript** and currently seeking a full-time job <br>
+where I can improve my software skills. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2:
+
+:innocent: You can contact me :thumbsup:
+<br>
+:point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down:
+<br>
+:arrow_forward: [Facebook](https://www.facebook.com/basak.acar.7140/) <br>
+:arrow_forward: [LinkedIn](https://www.linkedin.com/in/başak-acar-b5a6b3199/) <br>
+:arrow_forward: [Instagram](https://www.instagram.com/aegnor.4/)
+<br>
+:point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2:
