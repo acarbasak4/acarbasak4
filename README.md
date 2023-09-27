@@ -5,8 +5,7 @@
 
 :computer: I am a fresh engineer who tries to improve herself, follows new technologies and <br>
 has a sense of responsibility. I am trying to make responsive web applications with <br>
-**HTML5**, **CSS** and **JavaScript** and currently seeking a full-time job <br>
-where I can improve my software skills. 
+**HTML5**, **CSS** and **JavaScript** <br>
 
 :star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2:
 
